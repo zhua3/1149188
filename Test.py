@@ -1,1 +1,2 @@
-print ("my name is Alice")
+print ("Hello Python")
+print ("My name is Alice")
